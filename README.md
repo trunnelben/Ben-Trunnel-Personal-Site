@@ -1,2 +1,2 @@
-# Ben_Trunnel_Personal_Site
+# Ben-Trunnel-Personal-Site
 Ben Trunnel's personal website 
